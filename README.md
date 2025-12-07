@@ -1,4 +1,4 @@
-Kokoelma lyhyitä oppisisältöjä tutkimuksista – kuunneltavaksi tai katsottavaksi.
+Kokoelma muistiinpanoja tutkimuksista.
 
 ## <a href="SciencePods.md">SciencePods 🎧</a>
 
