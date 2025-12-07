@@ -22,4 +22,4 @@ Poimintoja tietolähteestä: Tuikka 2021. Pro-Gradu. Ei kaupalliseen.
 Ei kepsakka ukko kulttuurikielelle käänny
 Realian ongelmat Veikko Huovisen Puukansan tarinassa.
 
-<table><tr><td>
+</td></tr></table>
