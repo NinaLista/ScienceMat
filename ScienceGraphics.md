@@ -4,7 +4,7 @@
 
 ## Kieliammattilainen videopelien lokalisoinnin testaajana? 
 
-![Selite tähän](graphics/kuva1.jpg)
+![Kuvateksti tähän](graphics/minun-kuva.jpg)
 
 Lähde: Calvo-Ferrer & Muñoz Villena. 2024. CC-BY.
 What makes a video game localisation tester? Exploring the effect of individual factors on error detection. 
