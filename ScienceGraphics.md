@@ -1,5 +1,7 @@
 # ScienceGraphics 🎬
 
+Osittain AI-generoituja ja valikoituja poimintoja lähteistä muistiinpanoiksi. Tarkista tiedot alkuperäisestä lähteestä.
+
 <table><tr><td>
 
 ## Kieliammattilainen videopelien lokalisoinnin testaajana? 
