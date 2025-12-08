@@ -1,4 +1,7 @@
 Kokoelma muistiinpanoja tutkimuksista.
+Osittain AI-generoituja ja valikoituja poimintoja lähteistä. 
+Tarkista tiedot alkuperäisestä lähteestä.
+
 
 ## <a href="SciencePods.md">SciencePods 🎧</a>
 
@@ -12,7 +15,7 @@ Minivideoita opiksi tutkimuksista, ihmiseltä tai joltain muulta.
 
 ## <a href="ScienceGraphics.md">ScienceGraphics 🎬</a>
 
-Minivideoita opiksi tutkimuksista, ihmiseltä tai joltain muulta. 
+Infograafeja opiksi tutkimuksista, ihmiseltä tai joltain muulta. 
 <br>Science minipods for study, human or not. Collection for studies.
 
 
