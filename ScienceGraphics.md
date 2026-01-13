@@ -52,3 +52,14 @@ Käyttö: CC-BY-SA Nina Mäki-Kihniä. Sisältää AI-generoitua sisältöä. Ta
 Muistiinpanot & visualisointitestit opiskelun tueksi.
 
 </td></tr></table>
+
+<table><tr><td>
+
+## Sanaston kompleksisuus - ja miten kieli vaikuttaa siihen? 
+
+![Infograafi kielten sanastollisesta lämpötilasta](graphics/Rego-temperature.jpg)
+
+Poimintoja tietolähteestä: Rego et al. (2014), PLOS One. CC0. 
+When a Text Is Translated Does the Complexity of Its Vocabulary Change? Translations and Target Readerships 
+
+</td></tr></table>
