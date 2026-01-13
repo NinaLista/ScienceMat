@@ -41,7 +41,9 @@ JAT. Journal of Audiovisual Translation, 4(3),89–107. doi.org/10.47476/jat.v4i
 
 ## Ruma sana sanotaan niin kuin se on... eikö?
 
-![PDF-kooste kirosanojen kääntämisestä sisältää AI-generoitua sisältöä](graphics/V-sanan-mestariluokka-edit-3.pdf)
+![Käytännön opas suomeksi kiroilevalle](graphics/V-sana-kansi.jpg)
+
+AVAA PDF-MUISTIINPANOT TÄSTÄ: ![PDF-LINKKI](graphics/V-sanan-mestariluokka-edit-3.pdf)
 
 Poimintoja tietolähteistä: luettelo PDF:n viimeisellä sivulla. 
 Käyttö: CC-BY-SA Nina Mäki-Kihniä. Sisältää AI-generoitua sisältöä. Tarkista tiedot lähteistä.
