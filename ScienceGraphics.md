@@ -39,11 +39,13 @@ JAT. Journal of Audiovisual Translation, 4(3),89–107. doi.org/10.47476/jat.v4i
 
 </td></tr></table>
 
-## Ruma sana sanotaan niin kuin se on... eikö?
+## Ruma sana sanotaan niin kuin se on... vai?
 
 ![Käytännön opas suomeksi kiroilevalle](graphics/V-sana-kansi.jpg)
 
-AVAA PDF-MUISTIINPANOT TÄSTÄ: ![PDF-LINKKI](graphics/V-sanan-mestariluokka-edit-3.pdf)
+AVAA PDF-MUISTIINPANOT TÄSTÄ: ![Käytännön opas suomeksi kiroilevalle: Mestariluokka v-sanan käyttöön](graphics/V-sanan-mestariluokka-edit-3.pdf)
+
+Kaikki sivut näkyviin saat klikkaamalla näytön alareunasta "MORE PAGES".
 
 Poimintoja tietolähteistä: luettelo PDF:n viimeisellä sivulla. 
 Käyttö: CC-BY-SA Nina Mäki-Kihniä. Sisältää AI-generoitua sisältöä. Tarkista tiedot lähteistä.
