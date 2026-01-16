@@ -63,3 +63,18 @@ Poimintoja tietolähteestä: Rego et al. (2014), PLOS One. CC0.
 When a Text Is Translated Does the Complexity of Its Vocabulary Change? Translations and Target Readerships 
 
 </td></tr></table>
+
+
+## Suusta replaan - startti puheen illuusion rakentamiseen
+
+![Realismi on mahdotonta, illuusio välttämättömyys](graphics/Illusion-cover.jpg)
+
+AVAA PDF-MUISTIINPANOT TÄSTÄ: ![Puheen illuusion rakentamisesta](graphics/Puheen_Illuusio_Strategiat-SM.pdf)
+
+Kaikki sivut näkyviin saat klikkaamalla näytön alareunasta "MORE PAGES".
+
+Poimintoja tietolähteistä: luettelo PDF:n viimeisellä sivulla. 
+Käyttö: CC-BY Nina Mäki-Kihniä. Sisältää AI-generoitua sisältöä. Tarkista tiedot lähteistä.
+Muistiinpanot & visualisointitestit opiskelun tueksi.
+
+</td></tr></table>
