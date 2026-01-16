@@ -69,9 +69,11 @@ When a Text Is Translated Does the Complexity of Its Vocabulary Change? Translat
 
 ![Realismi on mahdotonta, illuusio välttämättömyys](graphics/Illusion-cover.jpg)
 
-AVAA PDF-MUISTIINPANOT TÄSTÄ: ![Puheen illuusion rakentamisesta](graphics/Puheen_Illuusio_Strategiat-SM.pdf)
+AVAA PDF-SETTI TÄSTÄ: ![Puheen illuusion rakentamisesta](graphics/Puheen_Illuusio_Strategiat-SM.pdf)
 
 Kaikki sivut näkyviin saat klikkaamalla näytön alareunasta "MORE PAGES".
+
+VISUALISOINNIN POHJALLA OLEVA AI-TEKSTIKOOSTE TÄSSÄ: ![Tekstikooste](graphics/Puheen-illuusion-tekstikooste-AI.pdf)
 
 Poimintoja tietolähteistä: luettelo PDF:n viimeisellä sivulla. 
 Käyttö: CC-BY Nina Mäki-Kihniä. Sisältää AI-generoitua sisältöä. Tarkista tiedot lähteistä.
