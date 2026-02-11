@@ -1,5 +1,5 @@
 Kokoelma muistiinpanoja tutkimuksista.
-Osittain AI-generoituja ja valikoituja poimintoja lähteistä. 
+Osittain AI-generoiden käsiteltyjä (esim. jäsenneltyjä) muistiinpanoja tai poimintoja lähteistä. 
 Tarkista tiedot alkuperäisestä lähteestä.
 
 
