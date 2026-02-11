@@ -1,6 +1,7 @@
 Kokoelma muistiinpanoja tutkimuksista.
 Osittain AI-generoiden käsiteltyjä (esim. jäsenneltyjä) muistiinpanoja tai poimintoja lähteistä. 
-Tarkista tiedot alkuperäisestä lähteestä.
+Esimerkki työvuosta: muistiinpanot (& valikointi) (ihminen) > valikointi, jäsentely (AI-käsittely) > muokkaus (jos edellä AI, tässä ihminen) > AI-käsittely > muokkaus (ihminen).  
+Tarkista tiedot alkuperäisestä lähteestä.  
 
 
 ## <a href="SciencePods.md">SciencePods 🎧</a>
