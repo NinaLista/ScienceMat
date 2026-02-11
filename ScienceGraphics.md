@@ -1,6 +1,7 @@
 # ScienceGraphics 🎬
 
-Osittain AI-generoituja ja valikoituja poimintoja lähteistä muistiinpanoiksi. Tarkista tiedot alkuperäisestä lähteestä.
+Osittain AI-käsiteltyjä (esim. jäsenneltyjä) muistiinpanoja tai poimintoja lähteistä. Tarkista tiedot alkuperäisestä lähteestä.  
+Esimerkki työvuosta: muistiinpanot (& valikointi) (ihminen) > valikointi, jäsentely (AI-käsittely) > muokkaus (jos edellä AI, tässä ihminen) > AI-käsittely > muokkaus (ihminen).  
 
 <table><tr><td>
 
